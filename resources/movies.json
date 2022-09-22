@@ -1,0 +1,2086 @@
+[
+    {
+        "rank": "1",
+        "title": "The Shawshank Redemption",
+        "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "year": "1994",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX300.jpg",
+        "director": "Frank Darabont",
+        "writer": "Stephen King, Frank Darabont",
+        "imdbRating": "9.3",
+        "actors": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton",
+            "William Sadler"
+        ]
+    },
+    {
+        "rank": "2",
+        "title": "The Godfather",
+        "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "year": "1972",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjEyMjcyNDI4MF5BMl5BanBnXkFtZTcwMDA5Mzg3OA@@._V1_SX300.jpg",
+        "director": "Francis Ford Coppola",
+        "writer": "Mario Puzo, Francis Ford Coppola",
+        "imdbRating": "9.2",
+        "actors": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan",
+            "Diane Keaton"
+        ]
+    },
+    {
+        "rank": "3",
+        "title": "The Godfather: Part II",
+        "plot": "The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "year": "1974",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNDc2NTM3MzU1Nl5BMl5BanBnXkFtZTcwMTA5Mzg3OA@@._V1_SX300.jpg",
+        "director": "Francis Ford Coppola",
+        "writer": "Francis Ford Coppola, Mario Puzo",
+        "imdbRating": "9.0",
+        "actors": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Robert Duvall",
+            "Diane Keaton"
+        ]
+    },
+    {
+        "rank": "4",
+        "title": "Pulp Fiction",
+        "plot": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "year": "1994",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4._V1_SX300.jpg",
+        "director": "Quentin Tarantino",
+        "writer": "Quentin Tarantino, Roger Avary",
+        "imdbRating": "9.0",
+        "actors": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson",
+            "Bruce Willis"
+        ]
+    },
+    {
+        "rank": "5",
+        "title": "The Good, the Bad and the Ugly",
+        "plot": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "genres": [
+            "Adventure",
+            "Western"
+        ],
+        "year": "1966",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjIxNjYwNDMzMl5BMl5BanBnXkFtZTcwODA5Mzg3OA@@._V1_SX300.jpg",
+        "director": "Sergio Leone",
+        "writer": "Luciano Vincenzoni, Sergio Leone",
+        "imdbRating": "9.0",
+        "actors": [
+            "Clint Eastwood",
+            "Eli Wallach",
+            "Lee Van Cleef",
+            "Aldo Giuffrè"
+        ]
+    },
+    {
+        "rank": "6",
+        "title": "The Dark Knight",
+        "plot": "When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "year": "2008",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+        "director": "Christopher Nolan",
+        "writer": "Jonathan Nolan, Christopher Nolan",
+        "imdbRating": "9.0",
+        "actors": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart",
+            "Michael Caine"
+        ]
+    },
+    {
+        "rank": "7",
+        "title": "12 Angry Men",
+        "plot": "A dissenting juror in a murder trial slowly manages to convince the others that the case is not as obviously clear as it seemed in court.",
+        "genres": [
+            "Drama"
+        ],
+        "year": "1957",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_SX300.jpg",
+        "director": "Sidney Lumet",
+        "writer": "Reginald Rose",
+        "imdbRating": "8.9",
+        "actors": [
+            "Henry Fonda",
+            "Lee J. Cobb",
+            "Martin Balsam",
+            "John Fiedler"
+        ]
+    },
+    {
+        "rank": "8",
+        "title": "Schindler's List",
+        "plot": "In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History",
+            "War"
+        ],
+        "year": "1993",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMzMwMTM4MDU2N15BMl5BanBnXkFtZTgwMzQ0MjMxMDE@._V1_SX300.jpg",
+        "director": "Steven Spielberg",
+        "writer": "Thomas Keneally, Steven Zaillian",
+        "imdbRating": "8.9",
+        "actors": [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley",
+            "Caroline Goodall"
+        ]
+    },
+    {
+        "rank": "9",
+        "title": "The Lord of the Rings: The Return of the King",
+        "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "year": "2003",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjE4MjA1NTAyMV5BMl5BanBnXkFtZTcwNzM1NDQyMQ@@._V1_SX300.jpg",
+        "director": "Peter Jackson",
+        "writer": "J.R.R. Tolkien, Fran Walsh",
+        "imdbRating": "8.9",
+        "actors": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen",
+            "Orlando Bloom"
+        ]
+    },
+    {
+        "rank": "10",
+        "title": "Fight Club",
+        "plot": "An insomniac office worker looking for a way to change his life crosses paths with a devil-may-care soap maker and they form an underground fight club that evolves into something much, much more...",
+        "genres": [
+            "Drama"
+        ],
+        "year": "1999",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjIwNTYzMzE1M15BMl5BanBnXkFtZTcwOTE5Mzg3OA@@._V1_SX300.jpg",
+        "director": "David Fincher",
+        "writer": "Chuck Palahniuk, Jim Uhls",
+        "imdbRating": "8.8",
+        "actors": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Helena Bonham Carter",
+            "Meat Loaf"
+        ]
+    },
+    {
+        "rank": "11",
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "plot": "After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "year": "1980",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjE2MzQwMTgxN15BMl5BanBnXkFtZTcwMDQzNjk2OQ@@._V1_SX300.jpg",
+        "director": "Irvin Kershner",
+        "writer": "Leigh Brackett, Lawrence Kasdan",
+        "imdbRating": "8.8",
+        "actors": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Billy Dee Williams"
+        ]
+    },
+    {
+        "rank": "12",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "plot": "A meek hobbit of The Shire and eight companions set out on a journey to Mount Doom to destroy the One Ring and the dark lord Sauron.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "year": "2001",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNTEyMjAwMDU1OV5BMl5BanBnXkFtZTcwNDQyNTkxMw@@._V1_SX300.jpg",
+        "director": "Peter Jackson",
+        "writer": "J.R.R. Tolkien, Fran Walsh",
+        "imdbRating": "8.8",
+        "actors": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Orlando Bloom",
+            "Sean Bean"
+        ]
+    },
+    {
+        "rank": "13",
+        "title": "One Flew Over the Cuckoo's Nest",
+        "plot": "Upon admittance to a mental institution, a brash rebel rallies the patients to take on the oppressive head nurse.",
+        "genres": [
+            "Drama"
+        ],
+        "year": "1975",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTk5OTA4NTc0NF5BMl5BanBnXkFtZTcwNzI5Mzg3OA@@._V1_SX300.jpg",
+        "director": "Milos Forman",
+        "writer": "Lawrence Hauben, Bo Goldman",
+        "imdbRating": "8.8",
+        "actors": [
+            "Jack Nicholson",
+            "Louise Fletcher",
+            "Michael Berryman",
+            "Peter Brocco"
+        ]
+    },
+    {
+        "rank": "14",
+        "title": "Inception",
+        "plot": "A skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "year": "2010",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+        "director": "Christopher Nolan",
+        "writer": "Christopher Nolan",
+        "imdbRating": "8.8",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Ellen Page",
+            "Ken Watanabe"
+        ]
+    },
+    {
+        "rank": "15",
+        "title": "Goodfellas",
+        "plot": "Henry Hill and his friends work their way up through the mob hierarchy.",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "year": "1990",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjU3MTQ4OTA0MV5BMl5BanBnXkFtZTYwNjAyMDg4._V1_SX300.jpg",
+        "director": "Martin Scorsese",
+        "writer": "Nicholas Pileggi, Nicholas Pileggi",
+        "imdbRating": "8.7",
+        "actors": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci",
+            "Lorraine Bracco"
+        ]
+    },
+    {
+        "rank": "16",
+        "title": "Star Wars",
+        "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the universe from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "year": "1977",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX300.jpg",
+        "director": "George Lucas",
+        "writer": "George Lucas",
+        "imdbRating": "8.7",
+        "actors": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Alec Guinness"
+        ]
+    },
+    {
+        "rank": "17",
+        "title": "Seven Samurai",
+        "plot": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "year": "1954",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNzg5Mzk5Nzc0NF5BMl5BanBnXkFtZTcwNjg3MDQzMQ@@._V1_SX300.jpg",
+        "director": "Akira Kurosawa",
+        "writer": "Akira Kurosawa, Shinobu Hashimoto",
+        "imdbRating": "8.8",
+        "actors": [
+            "Toshirô Mifune",
+            "Takashi Shimura",
+            "Keiko Tsushima",
+            "Yukiko Shimazaki"
+        ]
+    },
+    {
+        "rank": "18",
+        "title": "Forrest Gump",
+        "plot": "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "year": "1994",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTQwMTA5MzI1MF5BMl5BanBnXkFtZTcwMzY5Mzg3OA@@._V1_SX300.jpg",
+        "director": "Robert Zemeckis",
+        "writer": "Winston Groom, Eric Roth",
+        "imdbRating": "8.7",
+        "actors": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise",
+            "Sally Field"
+        ]
+    },
+    {
+        "rank": "19",
+        "title": "The Matrix",
+        "plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "year": "1999",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjEzNjg1NTg2NV5BMl5BanBnXkFtZTYwNjY3MzQ5._V1_SX300.jpg",
+        "director": "Andy Wachowski, Lana Wachowski",
+        "writer": "Andy Wachowski, Lana Wachowski",
+        "imdbRating": "8.7",
+        "actors": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss",
+            "Hugo Weaving"
+        ]
+    },
+    {
+        "rank": "20",
+        "title": "The Lord of the Rings: The Two Towers",
+        "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "year": "2002",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTAyNDU0NjY4NTheQTJeQWpwZ15BbWU2MDk4MTY2Nw@@._V1_SX300.jpg",
+        "director": "Peter Jackson",
+        "writer": "J.R.R. Tolkien, Fran Walsh",
+        "imdbRating": "8.7",
+        "actors": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen",
+            "Orlando Bloom"
+        ]
+    },
+    {
+        "rank": "21",
+        "title": "City of God",
+        "plot": "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "year": "2002",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX300.jpg",
+        "director": "Fernando Meirelles, Kátia Lund",
+        "writer": "Paulo Lins, Bráulio Mantovani",
+        "imdbRating": "8.7",
+        "actors": [
+            "Alexandre Rodrigues",
+            "Matheus Nachtergaele",
+            "Leandro Firmino",
+            "Phellipe Haagensen"
+        ]
+    },
+    {
+        "rank": "22",
+        "title": "Se7en",
+        "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.",
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "1995",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTQwNTU3MTE4NF5BMl5BanBnXkFtZTcwOTgxNDM2Mg@@._V1_SX300.jpg",
+        "director": "David Fincher",
+        "writer": "Andrew Kevin Walker",
+        "imdbRating": "8.7",
+        "actors": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Kevin Spacey",
+            "Andrew Kevin Walker"
+        ]
+    },
+    {
+        "rank": "23",
+        "title": "The Silence of the Lambs",
+        "plot": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "year": "1991",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTQ2NzkzMDI4OF5BMl5BanBnXkFtZTcwMDA0NzE1NA@@._V1_SX300.jpg",
+        "director": "Jonathan Demme",
+        "writer": "Thomas Harris, Ted Tally",
+        "imdbRating": "8.7",
+        "actors": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Lawrence A. Bonney",
+            "Kasi Lemmons"
+        ]
+    },
+    {
+        "rank": "24",
+        "title": "Once Upon a Time in the West",
+        "plot": "Epic story of a mysterious stranger with a harmonica who joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+        "genres": [
+            "Adventure",
+            "Western"
+        ],
+        "year": "1968",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTgwMzU1MDEyMl5BMl5BanBnXkFtZTcwNDc5Mzg3OA@@._V1_SX300.jpg",
+        "director": "Sergio Leone",
+        "writer": "Sergio Leone, Sergio Donati",
+        "imdbRating": "8.7",
+        "actors": [
+            "Henry Fonda",
+            "Charles Bronson",
+            "Claudia Cardinale",
+            "Jason Robards"
+        ]
+    },
+    {
+        "rank": "25",
+        "title": "Casablanca",
+        "plot": "Set in unoccupied Africa during the early days of World War II: An American expatriate meets a former lover, with unforeseen complications.",
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "year": "1942",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTcwNDI5MjI1Ml5BMl5BanBnXkFtZTYwODE4NDI2._V1_SX300.jpg",
+        "director": "Michael Curtiz",
+        "writer": "Julius J. Epstein, Philip G. Epstein",
+        "imdbRating": "8.7",
+        "actors": [
+            "Humphrey Bogart",
+            "Ingrid Bergman",
+            "Paul Henreid",
+            "Claude Rains"
+        ]
+    },
+    {
+        "rank": "26",
+        "title": "The Usual Suspects",
+        "plot": "A boat has been destroyed, criminals are dead, and the key to this mystery lies with the only survivor and his twisted, convoluted story beginning with five career crooks in a seemingly random police lineup.",
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "1995",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMzI1MjI5MDQyOV5BMl5BanBnXkFtZTcwNzE4Mjg3NA@@._V1_SX300.jpg",
+        "director": "Bryan Singer",
+        "writer": "Christopher McQuarrie",
+        "imdbRating": "8.7",
+        "actors": [
+            "Kevin Spacey",
+            "Gabriel Byrne",
+            "Chazz Palminteri",
+            "Stephen Baldwin"
+        ]
+    },
+    {
+        "rank": "27",
+        "title": "Raiders of the Lost Ark",
+        "plot": "Archeologist and adventurer Indiana Jones is hired by the US government to find the Ark of the Covenant before the Nazis.",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "year": "1981",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX300.jpg",
+        "director": "Steven Spielberg",
+        "writer": "Lawrence Kasdan, George Lucas",
+        "imdbRating": "8.6",
+        "actors": [
+            "Harrison Ford",
+            "Karen Allen",
+            "Paul Freeman",
+            "John Rhys-Davies"
+        ]
+    },
+    {
+        "rank": "28",
+        "title": "Rear Window",
+        "plot": "A wheelchair bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.",
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "1954",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNDUzMTY0NTE3NF5BMl5BanBnXkFtZTYwNDEyOTM2._V1_SX300.jpg",
+        "director": "Alfred Hitchcock",
+        "writer": "John Michael Hayes, Cornell Woolrich",
+        "imdbRating": "8.6",
+        "actors": [
+            "James Stewart",
+            "Grace Kelly",
+            "Wendell Corey",
+            "Thelma Ritter"
+        ]
+    },
+    {
+        "rank": "29",
+        "title": "It's a Wonderful Life",
+        "plot": "An angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed.",
+        "genres": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "year": "1946",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTMzMzY5NDc4M15BMl5BanBnXkFtZTcwMzc4NjIxNw@@._V1_SX300.jpg",
+        "director": "Frank Capra",
+        "writer": "Frances Goodrich, Albert Hackett",
+        "imdbRating": "8.6",
+        "actors": [
+            "James Stewart",
+            "Donna Reed",
+            "Lionel Barrymore",
+            "Thomas Mitchell"
+        ]
+    },
+    {
+        "rank": "30",
+        "title": "Psycho",
+        "plot": "A Phoenix secretary steals $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "1960",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTgyNDIxNzQ4MF5BMl5BanBnXkFtZTYwMzkyNTQ2._V1_SX300.jpg",
+        "director": "Alfred Hitchcock",
+        "writer": "Joseph Stefano, Robert Bloch",
+        "imdbRating": "8.6",
+        "actors": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles",
+            "John Gavin"
+        ]
+    },
+    {
+        "rank": "31",
+        "title": "Léon: The Professional",
+        "plot": "A professional assassin rescues a young girl whose parents were killed in a police raid.",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "year": "1994",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTgzMzg4MDkwNF5BMl5BanBnXkFtZTcwODAwNDg3OA@@._V1_SX300.jpg",
+        "director": "Luc Besson",
+        "writer": "Luc Besson",
+        "imdbRating": "8.6",
+        "actors": [
+            "Jean Reno",
+            "Gary Oldman",
+            "Natalie Portman",
+            "Danny Aiello"
+        ]
+    },
+    {
+        "rank": "32",
+        "title": "Sunset Blvd.",
+        "plot": "A hack screenwriter writes a screenplay for a former silent-film star who has faded into Hollywood obscurity.",
+        "genres": [
+            "Drama",
+            "Film-Noir"
+        ],
+        "year": "1950",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTk2OTQ5NDA4MV5BMl5BanBnXkFtZTcwNDIyNzE3OQ@@._V1_SX300.jpg",
+        "director": "Billy Wilder",
+        "writer": "Charles Brackett, Billy Wilder",
+        "imdbRating": "8.6",
+        "actors": [
+            "William Holden",
+            "Gloria Swanson",
+            "Erich von Stroheim",
+            "Nancy Olson"
+        ]
+    },
+    {
+        "rank": "33",
+        "title": "American History X",
+        "plot": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "year": "1998",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjMzNDUwNTIyMF5BMl5BanBnXkFtZTcwNjMwNDg3OA@@._V1_SX300.jpg",
+        "director": "Tony Kaye",
+        "writer": "David McKenna",
+        "imdbRating": "8.6",
+        "actors": [
+            "Edward Norton",
+            "Edward Furlong",
+            "Beverly D'Angelo",
+            "Jennifer Lien"
+        ]
+    },
+    {
+        "rank": "34",
+        "title": "Apocalypse Now",
+        "plot": "During the U.S.-Viet Nam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade colonel who has set himself up as a god among a local tribe.",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "year": "1979",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTcyMzQ5NDM4OV5BMl5BanBnXkFtZTcwODUwNDg3OA@@._V1_SX300.jpg",
+        "director": "Francis Ford Coppola",
+        "writer": "John Milius, Francis Ford Coppola",
+        "imdbRating": "8.5",
+        "actors": [
+            "Martin Sheen",
+            "Marlon Brando",
+            "Robert Duvall",
+            "Frederic Forrest"
+        ]
+    },
+    {
+        "rank": "35",
+        "title": "Terminator 2: Judgment Day",
+        "plot": "The cyborg who once tried to kill Sarah Connor is dead, and another T-101 must now protect her teenage son, John Connor, from an even more powerful and advanced Terminator, the T-1000.",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "year": "1991",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTg5NzUwMDU5NF5BMl5BanBnXkFtZTcwMjk2MDA4Mg@@._V1_SX300.jpg",
+        "director": "James Cameron",
+        "writer": "James Cameron, William Wisher Jr.",
+        "imdbRating": "8.5",
+        "actors": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Edward Furlong",
+            "Robert Patrick"
+        ]
+    },
+    {
+        "rank": "36",
+        "title": "Saving Private Ryan",
+        "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "year": "1998",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNjczODkxNTAxN15BMl5BanBnXkFtZTcwMTcwNjUxMw@@._V1_SX300.jpg",
+        "director": "Steven Spielberg",
+        "writer": "Robert Rodat",
+        "imdbRating": "8.5",
+        "actors": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore",
+            "Edward Burns"
+        ]
+    },
+    {
+        "rank": "37",
+        "title": "Memento",
+        "plot": "A man, suffering from short-term memory loss, uses notes and tattoos to hunt for the man he thinks killed his wife.",
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "2000",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTc4MjUxNDAwN15BMl5BanBnXkFtZTcwMDMwNDg3OA@@._V1_SX300.jpg",
+        "director": "Christopher Nolan",
+        "writer": "Christopher Nolan, Jonathan Nolan",
+        "imdbRating": "8.5",
+        "actors": [
+            "Guy Pearce",
+            "Carrie-Anne Moss",
+            "Joe Pantoliano",
+            "Mark Boone Junior"
+        ]
+    },
+    {
+        "rank": "38",
+        "title": "City Lights",
+        "plot": "The Tramp struggles to help a blind flower girl he has fallen in love with.",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "year": "1931",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTc2NzYxMzY5MV5BMl5BanBnXkFtZTYwNzY5MTE5._V1_SX300.jpg",
+        "director": "Charles Chaplin",
+        "writer": "Charles Chaplin",
+        "imdbRating": "8.6",
+        "actors": [
+            "Charles Chaplin",
+            "Virginia Cherrill",
+            "Florence Lee",
+            "Harry Myers"
+        ]
+    },
+    {
+        "rank": "39",
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "plot": "An insane general starts a process to nuclear holocaust that a war room of politicians and generals frantically try to stop.",
+        "genres": [
+            "Comedy",
+            "Sci-Fi",
+            "War"
+        ],
+        "year": "1964",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTU2ODM2NTkxNF5BMl5BanBnXkFtZTcwOTMwMzU3Mg@@._V1_SX300.jpg",
+        "director": "Stanley Kubrick",
+        "writer": "Stanley Kubrick, Terry Southern",
+        "imdbRating": "8.5",
+        "actors": [
+            "Peter Sellers",
+            "George C. Scott",
+            "Sterling Hayden",
+            "Keenan Wynn"
+        ]
+    },
+    {
+        "rank": "40",
+        "title": "Alien",
+        "plot": "The commercial vessel Nostromo receives a distress call from an unexplored planet. After searching for survivors, the crew heads home only to realize that a deadly bioform has joined them.",
+        "genres": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "year": "1979",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTk3NzkwMjA3OV5BMl5BanBnXkFtZTYwMTIwOTk2._V1_SX300.jpg",
+        "director": "Ridley Scott",
+        "writer": "Dan O'Bannon, Ronald Shusett",
+        "imdbRating": "8.5",
+        "actors": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "John Hurt",
+            "Veronica Cartwright"
+        ]
+    },
+    {
+        "rank": "41",
+        "title": "Modern Times",
+        "plot": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "year": "1936",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjMwMDA5NzEwOF5BMl5BanBnXkFtZTcwMzgwNDg3OA@@._V1_SX300.jpg",
+        "director": "Charles Chaplin",
+        "writer": "Charles Chaplin",
+        "imdbRating": "8.5",
+        "actors": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Henry Bergman",
+            "Tiny Sandford"
+        ]
+    },
+    {
+        "rank": "42",
+        "title": "Spirited Away",
+        "plot": "In the middle of her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and monsters; where humans are changed into animals; and a bathhouse for these creatures.",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "year": "2001",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjYxMDcyMzIzNl5BMl5BanBnXkFtZTYwNDg2MDU3._V1_SX300.jpg",
+        "director": "Hayao Miyazaki",
+        "writer": "Hayao Miyazaki",
+        "imdbRating": "8.6",
+        "actors": [
+            "Daveigh Chase",
+            "Suzanne Pleshette",
+            "Miyu Irino",
+            "Susan Egan"
+        ]
+    },
+    {
+        "rank": "43",
+        "title": "North by Northwest",
+        "plot": "A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "1959",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTc1MjczNTgxM15BMl5BanBnXkFtZTcwOTYwNDg3OA@@._V1_SX300.jpg",
+        "director": "Alfred Hitchcock",
+        "writer": "Ernest Lehman",
+        "imdbRating": "8.5",
+        "actors": [
+            "Cary Grant",
+            "Eva Marie Saint",
+            "James Mason",
+            "Jessie Royce Landis"
+        ]
+    },
+    {
+        "rank": "44",
+        "title": "Back to the Future",
+        "plot": "A teenager is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "year": "1985",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTk4OTQ1OTMwN15BMl5BanBnXkFtZTcwOTIwMzM3MQ@@._V1_SX300.jpg",
+        "director": "Robert Zemeckis",
+        "writer": "Robert Zemeckis, Bob Gale",
+        "imdbRating": "8.5",
+        "actors": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson",
+            "Crispin Glover"
+        ]
+    },
+    {
+        "rank": "45",
+        "title": "Life Is Beautiful",
+        "plot": "A Jewish man has a wonderful romance with the help of his humour, but must use that same quality to protect his son in a Nazi death camp.",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "year": "1997",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTM3NDg0OTkxOV5BMl5BanBnXkFtZTcwMTk2NzIyMQ@@._V1_SX300.jpg",
+        "director": "Roberto Benigni",
+        "writer": "Vincenzo Cerami, Roberto Benigni",
+        "imdbRating": "8.5",
+        "actors": [
+            "Roberto Benigni",
+            "Nicoletta Braschi",
+            "Giorgio Cantarini",
+            "Giustino Durano"
+        ]
+    },
+    {
+        "rank": "46",
+        "title": "The Shining",
+        "plot": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "year": "1980",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BODMxMjE3NTA4Ml5BMl5BanBnXkFtZTgwNDc0NTIxMDE@._V1_SX300.jpg",
+        "director": "Stanley Kubrick",
+        "writer": "Stephen King, Stanley Kubrick",
+        "imdbRating": "8.5",
+        "actors": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd",
+            "Scatman Crothers"
+        ]
+    },
+    {
+        "rank": "47",
+        "title": "The Pianist",
+        "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History",
+            "War"
+        ],
+        "year": "2002",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTc4OTkyOTA3OF5BMl5BanBnXkFtZTYwMDIxNjk5._V1_SX300.jpg",
+        "director": "Roman Polanski",
+        "writer": "Ronald Harwood, Wladyslaw Szpilman",
+        "imdbRating": "8.5",
+        "actors": [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay",
+            "Emilia Fox"
+        ]
+    },
+    {
+        "rank": "48",
+        "title": "Citizen Kane",
+        "plot": "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.",
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "year": "1941",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTQ2Mjc1MDQwMl5BMl5BanBnXkFtZTcwNzUyOTUyMg@@._V1_SX300.jpg",
+        "director": "Orson Welles",
+        "writer": "Herman J. Mankiewicz, Orson Welles",
+        "imdbRating": "8.5",
+        "actors": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Dorothy Comingore",
+            "Agnes Moorehead"
+        ]
+    },
+    {
+        "rank": "49",
+        "title": "The Departed",
+        "plot": "An undercover state cop who has infiltrated an Irish gang and a mole in the police force working for the same mob race to track down and identify each other before being exposed to the enemy, after both sides realize their outfit has a rat.",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "year": "2006",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg",
+        "director": "Martin Scorsese",
+        "writer": "William Monahan, Alan Mak",
+        "imdbRating": "8.5",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson",
+            "Mark Wahlberg"
+        ]
+    },
+    {
+        "rank": "50",
+        "title": "M",
+        "plot": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "year": "1931",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTIwNDU4OTI2MF5BMl5BanBnXkFtZTcwNzI5MjcyMQ@@._V1_SX300.jpg",
+        "director": "Fritz Lang",
+        "writer": "Thea von Harbou, Fritz Lang",
+        "imdbRating": "8.5",
+        "actors": [
+            "Peter Lorre",
+            "Ellen Widmann",
+            "Inge Landgut",
+            "Otto Wernicke"
+        ]
+    },
+    {
+        "rank": "51",
+        "title": "Paths of Glory",
+        "plot": "When soldiers in World War I refuse to continue with an impossible attack, their superior officers decide to make an example of them.",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "year": "1957",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTUxNTcxMjI5NV5BMl5BanBnXkFtZTcwNTcyNjI3Mw@@._V1_SX300.jpg",
+        "director": "Stanley Kubrick",
+        "writer": "Stanley Kubrick, Calder Willingham",
+        "imdbRating": "8.5",
+        "actors": [
+            "Kirk Douglas",
+            "Ralph Meeker",
+            "Adolphe Menjou",
+            "George Macready"
+        ]
+    },
+    {
+        "rank": "52",
+        "title": "Vertigo",
+        "plot": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+        "genres": [
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ],
+        "year": "1958",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNzY0NzQyNzQzOF5BMl5BanBnXkFtZTcwMTgwNTk4OQ@@._V1_SX300.jpg",
+        "director": "Alfred Hitchcock",
+        "writer": "Alec Coppel, Samuel A. Taylor",
+        "imdbRating": "8.5",
+        "actors": [
+            "James Stewart",
+            "Kim Novak",
+            "Barbara Bel Geddes",
+            "Tom Helmore"
+        ]
+    },
+    {
+        "rank": "53",
+        "title": "Django Unchained",
+        "plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "year": "2012",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg",
+        "director": "Quentin Tarantino",
+        "writer": "Quentin Tarantino",
+        "imdbRating": "8.5",
+        "actors": [
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio",
+            "Kerry Washington"
+        ]
+    },
+    {
+        "rank": "54",
+        "title": "Double Indemnity",
+        "plot": "An insurance rep lets himself be talked into a murder/insurance fraud scheme that arouses an insurance investigator's suspicions.",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Film-Noir",
+            "Thriller"
+        ],
+        "year": "1944",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTUyNzM2NzM2NV5BMl5BanBnXkFtZTcwNzYxNDg3OA@@._V1_SX300.jpg",
+        "director": "Billy Wilder",
+        "writer": "Billy Wilder, Raymond Chandler",
+        "imdbRating": "8.5",
+        "actors": [
+            "Fred MacMurray",
+            "Barbara Stanwyck",
+            "Edward G. Robinson",
+            "Byron Barr"
+        ]
+    },
+    {
+        "rank": "55",
+        "title": "The Dark Knight Rises",
+        "plot": "Eight years on, a new evil rises from where the Batman and Commissioner Gordon tried to bury it, causing the Batman to resurface and fight to protect Gotham City... the very city which brands him an enemy.",
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "year": "2012",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
+        "director": "Christopher Nolan",
+        "writer": "Jonathan Nolan, Christopher Nolan",
+        "imdbRating": "8.5",
+        "actors": [
+            "Christian Bale",
+            "Tom Hardy",
+            "Anne Hathaway",
+            "Gary Oldman"
+        ]
+    },
+    {
+        "rank": "56",
+        "title": "Aliens",
+        "plot": "The planet from 'Alien' has been colonized, but contact is lost. This time, the rescue team has impressive firepower, but will it be enough?",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "year": "1986",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTYzNzU5MzQ4OV5BMl5BanBnXkFtZTcwMDcxNDg3OA@@._V1_SX300.jpg",
+        "director": "James Cameron",
+        "writer": "James Cameron, David Giler",
+        "imdbRating": "8.5",
+        "actors": [
+            "Sigourney Weaver",
+            "Michael Biehn",
+            "Carrie Henn",
+            "Paul Reiser"
+        ]
+    },
+    {
+        "rank": "57",
+        "title": "Taxi Driver",
+        "plot": "A mentally unstable Viet Nam war veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "year": "1976",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTQ1Nzg3MDQwN15BMl5BanBnXkFtZTcwNDE2NDU2MQ@@._V1_SX300.jpg",
+        "director": "Martin Scorsese",
+        "writer": "Paul Schrader",
+        "imdbRating": "8.4",
+        "actors": [
+            "Robert De Niro",
+            "Jodie Foster",
+            "Cybill Shepherd",
+            "Albert Brooks"
+        ]
+    },
+    {
+        "rank": "58",
+        "title": "American Beauty",
+        "plot": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation for his daughter's attractive friend.",
+        "genres": [
+            "Drama"
+        ],
+        "year": "1999",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BOTU1MzExMDg3N15BMl5BanBnXkFtZTcwODExNDg3OA@@._V1_SX300.jpg",
+        "director": "Sam Mendes",
+        "writer": "Alan Ball",
+        "imdbRating": "8.5",
+        "actors": [
+            "Kevin Spacey",
+            "Annette Bening",
+            "Thora Birch",
+            "Wes Bentley"
+        ]
+    },
+    {
+        "rank": "59",
+        "title": "The Green Mile",
+        "plot": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+        ],
+        "year": "1999",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg",
+        "director": "Frank Darabont",
+        "writer": "Stephen King, Frank Darabont",
+        "imdbRating": "8.5",
+        "actors": [
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse",
+            "Bonnie Hunt"
+        ]
+    },
+    {
+        "rank": "60",
+        "title": "Gladiator",
+        "plot": "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "year": "2000",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNTQ2NzI0ODc5MV5BMl5BanBnXkFtZTcwMTA0MTk3OA@@._V1_SX300.jpg",
+        "director": "Ridley Scott",
+        "writer": "David Franzoni, David Franzoni",
+        "imdbRating": "8.5",
+        "actors": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen",
+            "Oliver Reed"
+        ]
+    },
+    {
+        "rank": "61",
+        "title": "The Intouchables",
+        "plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caretaker.",
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "year": "2011",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg",
+        "director": "Olivier Nakache, Eric Toledano",
+        "writer": "Olivier Nakache, Eric Toledano",
+        "imdbRating": "8.5",
+        "actors": [
+            "François Cluzet",
+            "Omar Sy",
+            "Anne Le Ny",
+            "Audrey Fleurot"
+        ]
+    },
+    {
+        "rank": "62",
+        "title": "WALL·E",
+        "plot": "In the distant future, a small waste collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "year": "2008",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTczOTA3MzY2N15BMl5BanBnXkFtZTcwOTYwNjE2MQ@@._V1_SX300.jpg",
+        "director": "Andrew Stanton",
+        "writer": "Andrew Stanton, Pete Docter",
+        "imdbRating": "8.4",
+        "actors": [
+            "Ben Burtt",
+            "Elissa Knight",
+            "Jeff Garlin",
+            "Fred Willard"
+        ]
+    },
+    {
+        "rank": "63",
+        "title": "The Lives of Others",
+        "plot": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "year": "2006",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNDUzNjYwNDYyNl5BMl5BanBnXkFtZTcwNjU3ODQ0MQ@@._V1_SX300.jpg",
+        "director": "Florian Henckel von Donnersmarck",
+        "writer": "Florian Henckel von Donnersmarck",
+        "imdbRating": "8.5",
+        "actors": [
+            "Ulrich Mühe",
+            "Martina Gedeck",
+            "Sebastian Koch",
+            "Ulrich Tukur"
+        ]
+    },
+    {
+        "rank": "64",
+        "title": "Toy Story 3",
+        "plot": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "year": "2010",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg",
+        "director": "Lee Unkrich",
+        "writer": "John Lasseter, Andrew Stanton",
+        "imdbRating": "8.4",
+        "actors": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Joan Cusack",
+            "Ned Beatty"
+        ]
+    },
+    {
+        "rank": "65",
+        "title": "The Great Dictator",
+        "plot": "Dictator Adenoid Hynkel has a doppelganger, a poor but kind Jewish barber living in the slums, who one day is mistaken for Hynkel.",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "year": "1940",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTQyNTgyNTQ3N15BMl5BanBnXkFtZTcwMzgyMDYyMQ@@._V1_SX300.jpg",
+        "director": "Charles Chaplin",
+        "writer": "Charles Chaplin",
+        "imdbRating": "8.4",
+        "actors": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Jack Oakie",
+            "Reginald Gardiner"
+        ]
+    },
+    {
+        "rank": "66",
+        "title": "The Prestige",
+        "plot": "The rivalry between two magicians becomes more exacerbated by their attempt to perform the ultimate illusion.",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "2006",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg",
+        "director": "Christopher Nolan",
+        "writer": "Jonathan Nolan, Christopher Nolan",
+        "imdbRating": "8.4",
+        "actors": [
+            "Christian Bale",
+            "Hugh Jackman",
+            "Scarlett Johansson",
+            "Michael Caine"
+        ]
+    },
+    {
+        "rank": "67",
+        "title": "A Clockwork Orange",
+        "plot": "In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem... but not all goes to plan.",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "year": "1971",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg",
+        "director": "Stanley Kubrick",
+        "writer": "Stanley Kubrick, Anthony Burgess",
+        "imdbRating": "8.4",
+        "actors": [
+            "Malcolm McDowell",
+            "Patrick Magee",
+            "Michael Bates",
+            "Warren Clarke"
+        ]
+    },
+    {
+        "rank": "68",
+        "title": "Lawrence of Arabia",
+        "plot": "A flamboyant and controversial British military figure and his conflicted loyalties during his World War I service in Arabia.",
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Drama",
+            "History",
+            "War"
+        ],
+        "year": "1962",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMzAwMjM4NzA2OV5BMl5BanBnXkFtZTcwMDI0NzAwMQ@@._V1_SX300.jpg",
+        "director": "David Lean",
+        "writer": "T.E. Lawrence, Robert Bolt",
+        "imdbRating": "8.4",
+        "actors": [
+            "Peter O'Toole",
+            "Alec Guinness",
+            "Anthony Quinn",
+            "Jack Hawkins"
+        ]
+    },
+    {
+        "rank": "69",
+        "title": "Amélie",
+        "plot": "Amelie, an innocent and naive girl in Paris, with her own sense of justice, decides to help those around her and along the way, discovers love.",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "year": "2001",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTUwNzkwMTk5Nl5BMl5BanBnXkFtZTYwMDAzMDI5._V1_SX300.jpg",
+        "director": "Jean-Pierre Jeunet",
+        "writer": "Guillaume Laurant, Jean-Pierre Jeunet",
+        "imdbRating": "8.4",
+        "actors": [
+            "Audrey Tautou",
+            "Mathieu Kassovitz",
+            "Rufus",
+            "Lorella Cravotta"
+        ]
+    },
+    {
+        "rank": "70",
+        "title": "To Kill a Mockingbird",
+        "plot": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his kids against prejudice.",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "year": "1962",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjA4MzI1NDY2Nl5BMl5BanBnXkFtZTcwMTcyODc5Mw@@._V1_SX300.jpg",
+        "director": "Robert Mulligan",
+        "writer": "Harper Lee, Horton Foote",
+        "imdbRating": "8.4",
+        "actors": [
+            "Gregory Peck",
+            "John Megna",
+            "Frank Overton",
+            "Rosemary Murphy"
+        ]
+    },
+    {
+        "rank": "71",
+        "title": "Reservoir Dogs",
+        "plot": "After a simple jewelery heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "year": "1992",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwNTgzMQ@@._V1_SX300.jpg",
+        "director": "Quentin Tarantino",
+        "writer": "Quentin Tarantino, Roger Avary",
+        "imdbRating": "8.4",
+        "actors": [
+            "Harvey Keitel",
+            "Tim Roth",
+            "Michael Madsen",
+            "Chris Penn"
+        ]
+    },
+    {
+        "rank": "72",
+        "title": "Das Boot",
+        "plot": "The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "History",
+            "War"
+        ],
+        "year": "1981",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjE5Mzk5OTQ0Nl5BMl5BanBnXkFtZTYwNzUwMTQ5._V1_SX300.jpg",
+        "director": "Wolfgang Petersen",
+        "writer": "Wolfgang Petersen, Lothar G. Buchheim",
+        "imdbRating": "8.4",
+        "actors": [
+            "Jürgen Prochnow",
+            "Herbert Grönemeyer",
+            "Klaus Wennemann",
+            "Hubertus Bengsch"
+        ]
+    },
+    {
+        "rank": "73",
+        "title": "The Lion King",
+        "plot": "Tricked into thinking he killed his father, a guilt ridden lion cub flees into exile and abandons his identity as the future King.",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Drama",
+            "Family",
+            "Musical"
+        ],
+        "year": "1994",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjEyMzgwNTUzMl5BMl5BanBnXkFtZTcwNTMxMzM3Ng@@._V1_SX300.jpg",
+        "director": "Roger Allers, Rob Minkoff",
+        "writer": "Irene Mecchi, Jonathan Roberts",
+        "imdbRating": "8.4",
+        "actors": [
+            "Matthew Broderick",
+            "Jeremy Irons",
+            "James Earl Jones",
+            "Whoopi Goldberg"
+        ]
+    },
+    {
+        "rank": "74",
+        "title": "Cinema Paradiso",
+        "plot": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+        "genres": [
+            "Drama"
+        ],
+        "year": "1988",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNDMwNDk3NDQ0Nl5BMl5BanBnXkFtZTcwNjEwMjI2MQ@@._V1_SX300.jpg",
+        "director": "Giuseppe Tornatore",
+        "writer": "Giuseppe Tornatore, Giuseppe Tornatore",
+        "imdbRating": "8.4",
+        "actors": [
+            "Philippe Noiret",
+            "Enzo Cannavale",
+            "Antonella Attili",
+            "Isa Danieli"
+        ]
+    },
+    {
+        "rank": "75",
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "plot": "After rescuing Han Solo from the palace of Jabba the Hutt, the Rebels attempt to destroy the Second Death Star, while Luke Skywalker tries to bring his father back to the Light Side of the Force.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "year": "1983",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjE5MTM3ODU5MV5BMl5BanBnXkFtZTcwOTYzNjk2OQ@@._V1_SX300.jpg",
+        "director": "Richard Marquand",
+        "writer": "Lawrence Kasdan, George Lucas",
+        "imdbRating": "8.4",
+        "actors": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Billy Dee Williams"
+        ]
+    },
+    {
+        "rank": "76",
+        "title": "The Treasure of the Sierra Madre",
+        "plot": "Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "year": "1948",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjEyMjU0ODM3OV5BMl5BanBnXkFtZTcwNDkyMTUyMg@@._V1_SX300.jpg",
+        "director": "John Huston",
+        "writer": "John Huston, B. Traven",
+        "imdbRating": "8.4",
+        "actors": [
+            "Humphrey Bogart",
+            "Walter Huston",
+            "Tim Holt",
+            "Bruce Bennett"
+        ]
+    },
+    {
+        "rank": "77",
+        "title": "The Third Man",
+        "plot": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, black-market opportunist Harry Lime.",
+        "genres": [
+            "Film-Noir",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "1949",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTYzOTAxNzAyNl5BMl5BanBnXkFtZTcwNjc0OTM0MQ@@._V1_SX300.jpg",
+        "director": "Carol Reed",
+        "writer": "Graham Greene, Graham Greene",
+        "imdbRating": "8.4",
+        "actors": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Alida Valli",
+            "Trevor Howard"
+        ]
+    },
+    {
+        "rank": "78",
+        "title": "Once Upon a Time in America",
+        "plot": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "year": "1984",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNDMwMDcyODkzOV5BMl5BanBnXkFtZTcwNTQ1Njg3OA@@._V1_SX300.jpg",
+        "director": "Sergio Leone",
+        "writer": "Harry Grey, Leonardo Benvenuti",
+        "imdbRating": "8.4",
+        "actors": [
+            "Robert De Niro",
+            "James Woods",
+            "Elizabeth McGovern",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "rank": "79",
+        "title": "Requiem for a Dream",
+        "plot": "The drug-induced utopias of four Coney Island individuals are shattered when their addictions become stronger.",
+        "genres": [
+            "Drama"
+        ],
+        "year": "2000",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMzM2OTYwMTY4Nl5BMl5BanBnXkFtZTcwMjU1Njg3OA@@._V1_SX300.jpg",
+        "director": "Darren Aronofsky",
+        "writer": "Hubert Selby Jr., Hubert Selby Jr.",
+        "imdbRating": "8.4",
+        "actors": [
+            "Ellen Burstyn",
+            "Jared Leto",
+            "Jennifer Connelly",
+            "Marlon Wayans"
+        ]
+    },
+    {
+        "rank": "80",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "plot": "A couple undergo a procedure to erase each other from their memories when their relationship turns sour, but it is only through the process of loss that they discover what they had to begin with.",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "year": "2004",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg",
+        "director": "Michel Gondry",
+        "writer": "Charlie Kaufman, Michel Gondry",
+        "imdbRating": "8.4",
+        "actors": [
+            "Jim Carrey",
+            "Kate Winslet",
+            "Tom Wilkinson",
+            "Gerry Robert Byrne"
+        ]
+    },
+    {
+        "rank": "81",
+        "title": "Full Metal Jacket",
+        "plot": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "year": "1987",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNDAzMjU3NzE0Nl5BMl5BanBnXkFtZTcwNTk1ODg3OA@@._V1_SX300.jpg",
+        "director": "Stanley Kubrick",
+        "writer": "Gustav Hasford, Stanley Kubrick",
+        "imdbRating": "8.3",
+        "actors": [
+            "Matthew Modine",
+            "R. Lee Ermey",
+            "Vincent D'Onofrio",
+            "Adam Baldwin"
+        ]
+    },
+    {
+        "rank": "82",
+        "title": "Oldboy",
+        "plot": "After being kidnapped and imprisoned for 15 years, Oh Dae-Su is released, only to find that he must find his captor in 5 days.",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "2003",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SX300.jpg",
+        "director": "Chan-wook Park",
+        "writer": "Garon Tsuchiya, Nobuaki Minegishi",
+        "imdbRating": "8.4",
+        "actors": [
+            "Min-sik Choi",
+            "Ji-tae Yu",
+            "Hye-jeong Kang",
+            "Dae-han Ji"
+        ]
+    },
+    {
+        "rank": "83",
+        "title": "Braveheart",
+        "plot": "When his secret bride is executed for assaulting an English soldier who tried to rape her, a commoner begins a revolt and leads Scottish warriors against the cruel English tyrant who rules Scotland with an iron fist.",
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama",
+            "History",
+            "War"
+        ],
+        "year": "1995",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNjA4ODYxMDU3Nl5BMl5BanBnXkFtZTcwMzkzMTk3OA@@._V1_SX300.jpg",
+        "director": "Mel Gibson",
+        "writer": "Randall Wallace",
+        "imdbRating": "8.4",
+        "actors": [
+            "Mel Gibson",
+            "Sophie Marceau",
+            "Patrick McGoohan",
+            "Angus Macfadyen"
+        ]
+    },
+    {
+        "rank": "84",
+        "title": "L.A. Confidential",
+        "plot": "As corruption grows in 1950s LA, three policemen - the straight-laced, the brutal, and the sleazy - investigate a series of murders with their own brand of justice.",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "1997",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTQ5MTU4MzQ5NF5BMl5BanBnXkFtZTcwMjY1OTM2MQ@@._V1_SX300.jpg",
+        "director": "Curtis Hanson",
+        "writer": "James Ellroy, Brian Helgeland",
+        "imdbRating": "8.3",
+        "actors": [
+            "Kevin Spacey",
+            "Russell Crowe",
+            "Guy Pearce",
+            "Kim Basinger"
+        ]
+    },
+    {
+        "rank": "85",
+        "title": "Bicycle Thieves",
+        "plot": "A man and his son search for a stolen bicycle vital for his job.",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "year": "1948",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjA5MDY0NzM2M15BMl5BanBnXkFtZTcwNzI2NTA0MQ@@._V1_SX300.jpg",
+        "director": "Vittorio De Sica",
+        "writer": "Luigi Bartolini, Cesare Zavattini",
+        "imdbRating": "8.4",
+        "actors": [
+            "Lamberto Maggiorani",
+            "Enzo Staiola",
+            "Lianella Carell",
+            "Gino Saltamerenda"
+        ]
+    },
+    {
+        "rank": "86",
+        "title": "Chinatown",
+        "plot": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption and murder.",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": "1974",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTUyMTQ1NjA2OV5BMl5BanBnXkFtZTcwODQ1Njg3OA@@._V1_SX300.jpg",
+        "director": "Roman Polanski",
+        "writer": "Robert Towne",
+        "imdbRating": "8.3",
+        "actors": [
+            "Jack Nicholson",
+            "Faye Dunaway",
+            "John Huston",
+            "Perry Lopez"
+        ]
+    },
+    {
+        "rank": "87",
+        "title": "Singin' in the Rain",
+        "plot": "A silent film production company and cast make a difficult transition to sound.",
+        "genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "year": "1952",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTUxMTIyNTI4Nl5BMl5BanBnXkFtZTcwNTk1ODQyMg@@._V1_SX300.jpg",
+        "director": "Stanley Donen, Gene Kelly",
+        "writer": "Adolph Green, Betty Comden",
+        "imdbRating": "8.4",
+        "actors": [
+            "Gene Kelly",
+            "Donald O'Connor",
+            "Debbie Reynolds",
+            "Jean Hagen"
+        ]
+    },
+    {
+        "rank": "88",
+        "title": "Princess Mononoke",
+        "plot": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Fantasy"
+        ],
+        "year": "1997",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjgzNTUwODQzN15BMl5BanBnXkFtZTcwMTc4ODE3OQ@@._V1_SX300.jpg",
+        "director": "Hayao Miyazaki",
+        "writer": "Hayao Miyazaki",
+        "imdbRating": "8.4",
+        "actors": [
+            "Yôji Matsuda",
+            "Yuriko Ishida",
+            "Yûko Tanaka",
+            "Billy Crudup"
+        ]
+    },
+    {
+        "rank": "89",
+        "title": "Monty Python and the Holy Grail",
+        "plot": "King Arthur and his knights embark on a low-budget search for the Grail, encountering many very silly obstacles.",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "year": "1975",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTkzODczMTgwM15BMl5BanBnXkFtZTYwNTAwODI5._V1_SX300.jpg",
+        "director": "Terry Gilliam, Terry Jones",
+        "writer": "Graham Chapman, John Cleese",
+        "imdbRating": "8.3",
+        "actors": [
+            "Graham Chapman",
+            "John Cleese",
+            "Eric Idle",
+            "Terry Gilliam"
+        ]
+    },
+    {
+        "rank": "90",
+        "title": "Metropolis",
+        "plot": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.",
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "year": "1927",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNDAzNTkyODg1MF5BMl5BanBnXkFtZTgwMDA3NDkwMDE@._V1_SX300.jpg",
+        "director": "Fritz Lang",
+        "writer": "Thea von Harbou, Thea von Harbou",
+        "imdbRating": "8.4",
+        "actors": [
+            "Brigitte Helm",
+            "Alfred Abel",
+            "Gustav Fröhlich",
+            "Rudolf Klein-Rogge"
+        ]
+    },
+    {
+        "rank": "91",
+        "title": "Rashomon",
+        "plot": "A heinous crime and its aftermath are recalled from differing points of view.",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "year": "1950",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_SX300.jpg",
+        "director": "Akira Kurosawa",
+        "writer": "Ryûnosuke Akutagawa, Akira Kurosawa",
+        "imdbRating": "8.4",
+        "actors": [
+            "Toshirô Mifune",
+            "Machiko Kyô",
+            "Masayuki Mori",
+            "Takashi Shimura"
+        ]
+    },
+    {
+        "rank": "92",
+        "title": "Some Like It Hot",
+        "plot": "When two musicians witness a mob hit, they flee the state in an all female band disguised as women, but further complications set in.",
+        "genres": [
+            "Comedy"
+        ],
+        "year": "1959",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNzYzMDkzNDQ0N15BMl5BanBnXkFtZTcwNzQ0NDQyNA@@._V1_SX300.jpg",
+        "director": "Billy Wilder",
+        "writer": "Billy Wilder, I.A.L. Diamond",
+        "imdbRating": "8.3",
+        "actors": [
+            "Marilyn Monroe",
+            "Tony Curtis",
+            "Jack Lemmon",
+            "George Raft"
+        ]
+    },
+    {
+        "rank": "93",
+        "title": "Amadeus",
+        "plot": "The incredible story of Wolfgang Amadeus Mozart, told by his peer and secret rival Antonio Salieri - now confined to an insane asylum.",
+        "genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "year": "1984",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTg5NDkwMTk5N15BMl5BanBnXkFtZTYwODg3MDk2._V1_SX300.jpg",
+        "director": "Milos Forman",
+        "writer": "Peter Shaffer, Peter Shaffer",
+        "imdbRating": "8.3",
+        "actors": [
+            "F. Murray Abraham",
+            "Tom Hulce",
+            "Elizabeth Berridge",
+            "Roy Dotrice"
+        ]
+    },
+    {
+        "rank": "94",
+        "title": "2001: A Space Odyssey",
+        "plot": "Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.",
+        "genres": [
+            "Adventure",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "year": "1968",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BNDYyMDgxNDQ5Nl5BMl5BanBnXkFtZTcwMjc1ODg3OA@@._V1_SX300.jpg",
+        "director": "Stanley Kubrick",
+        "writer": "Stanley Kubrick, Arthur C. Clarke",
+        "imdbRating": "8.3",
+        "actors": [
+            "Keir Dullea",
+            "Gary Lockwood",
+            "William Sylvester",
+            "Daniel Richter"
+        ]
+    },
+    {
+        "rank": "95",
+        "title": "All About Eve",
+        "plot": "An ingenue insinuates herself in to the company of an established but aging stage actress and her circle of theater friends.",
+        "genres": [
+            "Drama"
+        ],
+        "year": "1950",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjE4MDg3ODUzMF5BMl5BanBnXkFtZTcwODY1ODg3OA@@._V1_SX300.jpg",
+        "director": "Joseph L. Mankiewicz",
+        "writer": "Joseph L. Mankiewicz",
+        "imdbRating": "8.4",
+        "actors": [
+            "Bette Davis",
+            "Anne Baxter",
+            "George Sanders",
+            "Celeste Holm"
+        ]
+    },
+    {
+        "rank": "96",
+        "title": "Witness for the Prosecution",
+        "plot": "Agatha Christie tale of a man on trial for murder: a trial featuring surprise after surprise.",
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "year": "1957",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTc0MjgyNTUyNF5BMl5BanBnXkFtZTcwNDQzMDg0Nw@@._V1_SX300.jpg",
+        "director": "Billy Wilder",
+        "writer": "Agatha Christie, Billy Wilder",
+        "imdbRating": "8.4",
+        "actors": [
+            "Tyrone Power",
+            "Marlene Dietrich",
+            "Charles Laughton",
+            "Elsa Lanchester"
+        ]
+    },
+    {
+        "rank": "97",
+        "title": "The Sting",
+        "plot": "In 1930s Chicago, a young con man seeking revenge for his murdered partner teams up with a master of the big con to win a fortune from a criminal banker.",
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "year": "1973",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTY2OTM3Njk2MF5BMl5BanBnXkFtZTYwNzk4Njk4._V1_SX300.jpg",
+        "director": "George Roy Hill",
+        "writer": "David S. Ward",
+        "imdbRating": "8.3",
+        "actors": [
+            "Paul Newman",
+            "Robert Redford",
+            "Robert Shaw",
+            "Charles Durning"
+        ]
+    },
+    {
+        "rank": "98",
+        "title": "The Apartment",
+        "plot": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "year": "1960",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTM1OTc4MzgzNl5BMl5BanBnXkFtZTcwNTE2NjgyMw@@._V1_SX300.jpg",
+        "director": "Billy Wilder",
+        "writer": "Billy Wilder, I.A.L. Diamond",
+        "imdbRating": "8.3",
+        "actors": [
+            "Jack Lemmon",
+            "Shirley MacLaine",
+            "Fred MacMurray",
+            "Ray Walston"
+        ]
+    },
+    {
+        "rank": "99",
+        "title": "Grave of the Fireflies",
+        "plot": "A tragic film covering a young boy and his little sister's struggle to survive in Japan during World War II.",
+        "genres": [
+            "Animation",
+            "Drama",
+            "War"
+        ],
+        "year": "1988",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMjA0MzgwMTU4MV5BMl5BanBnXkFtZTcwODYxNjEzMQ@@._V1_SX300.jpg",
+        "director": "Isao Takahata",
+        "writer": "Akiyuki Nosaka, Isao Takahata",
+        "imdbRating": "8.4",
+        "actors": [
+            "Tsutomu Tatsumi",
+            "Ayano Shiraishi",
+            "Akemi Yamaguchi",
+            "Yoshiko Shinohara"
+        ]
+    },
+    {
+        "rank": "100",
+        "title": "Indiana Jones and the Last Crusade",
+        "plot": "When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "year": "1989",
+        "avatar": "http://ia.media-imdb.com/images/M/MV5BMTQxMTUyODg2OF5BMl5BanBnXkFtZTcwNDM2MjAxNA@@._V1_SX300.jpg",
+        "director": "Steven Spielberg",
+        "writer": "Jeffrey Boam, George Lucas",
+        "imdbRating": "8.3",
+        "actors": [
+            "Harrison Ford",
+            "Sean Connery",
+            "Alison Doody",
+            "Denholm Elliott"
+        ]
+    }
+]
